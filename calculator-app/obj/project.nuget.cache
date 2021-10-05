@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZFS2xztKu2js2pBlCW/MYNhKhrPJb1Zu0LcU1Okt4jivZOhrhwhSLzXEUCVPpHwegkAnfKq7rsamAPw0DTkf/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yunus\\source\\repos\\calculator-app\\calculator-app\\calculator-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yunus\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512"
+  ],
+  "logs": []
+}
